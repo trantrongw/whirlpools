@@ -1,0 +1,10 @@
+/workspaces/whirlpools/target/debug/deps/libspl_token_group_interface-fa56c4ea291b876f.so: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/instruction.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/state.rs
+
+/workspaces/whirlpools/target/debug/deps/libspl_token_group_interface-fa56c4ea291b876f.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/instruction.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/state.rs
+
+/workspaces/whirlpools/target/debug/deps/spl_token_group_interface-fa56c4ea291b876f.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/instruction.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/state.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/error.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/instruction.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.1.1/src/state.rs:

@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/workspaces/whirlpools/target/sbf-solana-solana/release/build/typenum-96b0ed34543f6b21/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/workspaces/whirlpools/target/sbf-solana-solana/release/build/typenum-96b0ed34543f6b21/out/op.rs
